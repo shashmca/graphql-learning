@@ -13,8 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 The prerequisites are
 
 ```
-* NodeJS 8+
-* Account on mongo [cloud](https://cloud.mongodb.com)
+1. NodeJS 8+
+2. Account on mongo [cloud](https://cloud.mongodb.com)
 
 ```
 
@@ -23,9 +23,9 @@ The prerequisites are
 For DB setup, provide details in nodemon.json file
 
 ```
-* DB Username
-* DB Password
-* DB Name
+1. DB Username
+2. DB Password
+3. DB Name
 ```
 
 Also make sure that your ip address is whitelisted on Mongo cloud.
