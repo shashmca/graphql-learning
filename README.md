@@ -14,7 +14,7 @@ The prerequisites are
 
 ```
 1. NodeJS 8+
-2. Account on mongo [cloud](https://cloud.mongodb.com)
+2. Account on mongo cloud(https://cloud.mongodb.com)
 
 ```
 
